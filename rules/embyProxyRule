@@ -1,6 +1,7 @@
 DOMAIN,smtp.gmail.com
 DOMAIN,imap.gmail.com
 DOMAIN,sylu.net
+DOMAIN,*.sharepoint.com
 DOMAIN-SUFFIX,emby.misaya.org
 DOMAIN-SUFFIX,hxd.as174.de
 DOMAIN-SUFFIX,yixia.io
