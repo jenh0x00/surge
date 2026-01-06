@@ -1,7 +1,6 @@
 DOMAIN,smtp.gmail.com
 DOMAIN,imap.gmail.com
 DOMAIN,sylu.net
-DOMAIN,info.us.kg
 DOMAIN-SUFFIX,emby.misaya.org
 DOMAIN-SUFFIX,hxd.as174.de
 DOMAIN-SUFFIX,yixia.io
@@ -16,3 +15,4 @@ DOMAIN-SUFFIX,feiniu.lol
 DOMAIN-SUFFIX,liminalnet.com
 DOMAIN-SUFFIX,beupisp.com
 DOMAIN-SUFFIX,notfounda.shop
+DOMAIN-SUFFIX,us.kg
